@@ -10,10 +10,8 @@ Dark Ages Automation Tool + Updater
 ## Requirements ✅
 
 - [Dark Ages](https://www.darkages.com) Client 7.41 (current latest)
-- .NET 7.0 Runtime
-    - Windows arm64 - [Download Link](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.5-windows-arm64-installer)
+- .NET 9 Runtime
     - Windows x64 - [Download Link](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.5-windows-x64-installer)
-    - Windows x86 - [Download Link](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.5-windows-x86-installer)
 - Windows 7, 10, 11 (64-bit)
 
 ## Installation 💾
